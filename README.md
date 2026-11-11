@@ -53,21 +53,21 @@ Monthly investor reporting is usually assembled by hand: NAVs copied from the ad
 
 ## Deliverables
 
-Everything opens from **one file**, `00_START_HERE`, in any browser: pick your role, read each document, watch the presentation, search the tables and use the dashboard. Each document has one reader and one job, and the numbers agree across all of them.
+Everything opens from **one file**, *Start here* (no. 1), in any browser: pick your role, read each document, watch the presentation, search the tables and use the dashboard. Each document has one reader and one job, and the numbers agree across all of them. PowerPoint and Excel files open in the browser through Microsoft's free online viewer; *download* gives the original file.
 
 | # | File | Format | What it is |
 |---|---|---|---|
-| 00 | [Start here](https://abduwars.github.io/proquant-03-investor-reporting/sample-delivery/00_START_HERE_DemoClient.html) | HTML (opens in any browser) | **One file that holds it all**: every document, the presentation, the tables and the dashboard |
-| 01 | [Report](sample-delivery/01_DemoClient_InvestorReporting_Report_v1.0_20261111.pdf) | PDF | Monthly investor report (~19 pages) |
-| 02 | [Investor Tear Sheet](sample-delivery/02_DemoClient_InvestorReporting_InvestorTearSheet_v1.0_20261111.pdf) | PDF | **Factsheet for investors**: the month on one page |
-| 03 | [Presentation](sample-delivery/03_DemoClient_InvestorReporting_Presentation_v1.0_20261111.pptx) | PowerPoint | **A full talk**: 13 slides with editable charts and speaker notes, ready to present |
-| 04 | [Results Workbook](sample-delivery/04_DemoClient_InvestorReporting_ResultsWorkbook_v1.0_20261111.xlsx) | Excel | **The working file**: a Control panel with live formulas, and every table. Opens on a **Read me** sheet with a linked index |
-| 05 | [Methodology](sample-delivery/05_DemoClient_InvestorReporting_Methodology_v1.0_20261111.pdf) | PDF | How every figure is calculated (for auditors, consultants, due diligence) |
-| 06 | [Handover Note](sample-delivery/06_DemoClient_InvestorReporting_HandoverNote_v1.0_20261111.pdf) | PDF | What was delivered, headline result, assumptions, monthly process |
-| 07 | [Release Summary](sample-delivery/07_DemoClient_InvestorReporting_ReleaseSummary_v1.0_20261111.pdf) | PDF | **One page for the fund manager**: can the pack go out, with no charts |
-| 08 | [Reconciliation Sign Off](sample-delivery/08_DemoClient_InvestorReporting_ReconciliationSignOff_v1.0_20261111.pdf) | PDF | **Reconciliation and sign-off sheet**: every check, the release decision, signature blocks |
-| 09 | [Investor Web Page](https://abduwars.github.io/proquant-03-investor-reporting/sample-delivery/09_DemoClient_InvestorReporting_InvestorWebPage_v1.0_20261111.html) | HTML (opens in any browser) | **Investor web page**: one self-contained file, works offline and on phones, ready for an investor portal |
-| 10 | [Dashboard](https://abduwars.github.io/proquant-03-investor-reporting/sample-delivery/10_DemoClient_InvestorReporting_Dashboard_v1.0_20261111.html) | HTML (opens in any browser) | **Interactive dashboard in one file**: opens in any browser, explores the data, tries what-ifs and reads the updated tracker |
+| 1 | [Start here](https://abduwars.github.io/proquant-03-investor-reporting/sample-delivery/00_START_HERE_DemoClient.html) | HTML (opens in any browser) | **One file that holds it all**: every document, the presentation, the tables and the dashboard |
+| 2 | [Report](sample-delivery/01_DemoClient_InvestorReporting_Report_v1.0_20261111.pdf) | PDF | Monthly investor report (~19 pages) |
+| 3 | [Investor Tear Sheet](sample-delivery/02_DemoClient_InvestorReporting_InvestorTearSheet_v1.0_20261111.pdf) | PDF | **Factsheet for investors**: the month on one page |
+| 4 | [Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-03-investor-reporting%2Fsample-delivery%2F03_DemoClient_InvestorReporting_Presentation_v1.0_20261111.pptx) | PowerPoint · [download](https://raw.githubusercontent.com/AbduWars/proquant-03-investor-reporting/main/sample-delivery/03_DemoClient_InvestorReporting_Presentation_v1.0_20261111.pptx) | **A full talk**: 13 slides with editable charts and speaker notes, ready to present |
+| 5 | [Results Workbook](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-03-investor-reporting%2Fsample-delivery%2F04_DemoClient_InvestorReporting_ResultsWorkbook_v1.0_20261111.xlsx) | Excel · [download](https://raw.githubusercontent.com/AbduWars/proquant-03-investor-reporting/main/sample-delivery/04_DemoClient_InvestorReporting_ResultsWorkbook_v1.0_20261111.xlsx) | **The working file**: a Control panel with live formulas, and every table. Opens on a **Read me** sheet with a linked index |
+| 6 | [Methodology](sample-delivery/05_DemoClient_InvestorReporting_Methodology_v1.0_20261111.pdf) | PDF | How every figure is calculated (for auditors, consultants, due diligence) |
+| 7 | [Handover Note](sample-delivery/06_DemoClient_InvestorReporting_HandoverNote_v1.0_20261111.pdf) | PDF | What was delivered, headline result, assumptions, monthly process |
+| 8 | [Release Summary](sample-delivery/07_DemoClient_InvestorReporting_ReleaseSummary_v1.0_20261111.pdf) | PDF | **One page for the fund manager**: can the pack go out, with no charts |
+| 9 | [Reconciliation Sign Off](sample-delivery/08_DemoClient_InvestorReporting_ReconciliationSignOff_v1.0_20261111.pdf) | PDF | **Reconciliation and sign-off sheet**: every check, the release decision, signature blocks |
+| 10 | [Investor Web Page](https://abduwars.github.io/proquant-03-investor-reporting/sample-delivery/09_DemoClient_InvestorReporting_InvestorWebPage_v1.0_20261111.html) | HTML (opens in any browser) | **Investor web page**: one self-contained file, works offline and on phones, ready for an investor portal |
+| 11 | [Dashboard](https://abduwars.github.io/proquant-03-investor-reporting/sample-delivery/10_DemoClient_InvestorReporting_Dashboard_v1.0_20261111.html) | HTML (opens in any browser) | **Interactive dashboard in one file**: opens in any browser, explores the data, tries what-ifs and reads the updated tracker |
 
 Also delivered: data-quality reports and long-format CSV / Parquet exports for Power BI or Looker Studio.
 
